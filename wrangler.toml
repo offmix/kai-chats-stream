@@ -1,0 +1,8 @@
+
+name = "kai-chats-stream"
+main = "worker.js"
+compatibility_date = "2026-11-20"
+
+[[kv_namespaces]]
+binding = "STREAM_TICKETS"
+id = "ここにKVのNamespace ID"
